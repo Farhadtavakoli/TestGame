@@ -1,1 +1,1 @@
-print("Hello World!")
+print("Hang Man Game!")
